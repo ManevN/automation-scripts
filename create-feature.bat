@@ -25,9 +25,8 @@ type nul > index.ts
 type nul > processor.ts
 cd..
 
-cd..
-
 type nul > index.ts
+cd..
 
 npm init --yes
 
